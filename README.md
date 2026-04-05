@@ -1,4 +1,4 @@
-##Python Pomodoro Timer (Tkinter)
+#Python Pomodoro Timer (Tkinter)
 
 A simple desktop Pomodoro timer built with Python and Tkinter.
 This app helps you stay focused using the Pomodoro productivity technique.
@@ -48,7 +48,3 @@ Time-based workflows
 
 ##Author
 Eleni Terpsidou
-
-3️⃣ Run the app:
-
-python pomodoro.py
